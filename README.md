@@ -22,14 +22,14 @@ Tema 1. La comunidad Linux y una carrera en el mundo del código abierto<p>
           <ul>
             <li>Paquetes de software</li>
             <li>Instalación de paquetes</li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
+            <li>Eliminación de paquetes</li>
+            <li>Aplicación de Office</li>
+            <li>Navegadores Web</li>
+            <li>Multimedia</li>
+            <li>Programas para servidores</li>
+            <li>Datos compartidos (Data Sharing)</li>
+            <li>Administración de la red</li>
+            <li>Lenguajes de programación</li>
           </ul>
         <li>Ejercicios guiados</li>
         <li>Ejercicios exploratorios</li>
