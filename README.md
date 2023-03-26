@@ -234,6 +234,7 @@ Tema 4. El sistema operativo Linux
         <li>Ejercicios guiados</li>
         <li>Ejercicios exploratorios</li>
         <li>Resumen</li>
+      </ul>
     <li>Donde los datos se almacenan</li>
       <ul>
         <li>Introducción</li>
