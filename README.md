@@ -5,4 +5,18 @@ Versión 1.6 Español
 Tema 1. La comunidad Linux y una carrera en el mundo del código abierto<p>
   <ul>
     <li>Los sistemas operativos populares y la evolución de Linux</li>
+      <ul>
+        <li>Lección 1</li>
+      </ul>
+    
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
   </ul>
