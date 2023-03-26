@@ -8,7 +8,7 @@ Tema 1. La comunidad Linux y una carrera en el mundo del código abierto<p>
       <ul>
         <li>Introducción</li>
           <ul>
-            <li>Distribuciones</li>
+            <li><a href=Unidad-1/Sistemas-operativos-populares.md>Distribuciones</a></li>
             <li>Sistemas Embebidos</li>
             <li>Linux y el Cloud Computing</li>
           </ul>
