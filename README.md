@@ -39,11 +39,27 @@ Tema 1. La comunidad Linux y una carrera en el mundo del código abierto<p>
       <ul>
         <li>Introducción</li>
           <ul>
-            <li></li>
+            <li>Definición de Software Libre y de Código Abierto</li>
+            <li>Licencias</li>
+            <li>Modelos de Negocio en Software Libre</li>
           </ul>
         <li>Ejercicios guiados</li>
         <li>Ejercicios exploratorios</li>
         <li>Resumen</li>
       </ul>
-    <li></li>    
+    <li>Destrezas TIC y el trabajo con Linux</li>
+      <ul>
+        <li>Introducción</li>
+          <ul>
+            <li>Interfaces de usuario en Linux</li>
+            <li>Usos industriales de Linux</li>
+            <li>Problemas de privacidad en el uso de Internet</li>
+            <li>Encriptación</li>
+          </ul>
+        <li>Ejercicios guiados</li>
+        <li>Ejercicios exploratorios</li>
+        <li>Resumen</li>
+      </ul>
   </ol>
+  
+  Tema 2. Encontrando el camino en un sistema Linux<p>
