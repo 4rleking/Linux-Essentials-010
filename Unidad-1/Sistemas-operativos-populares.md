@@ -1,4 +1,4 @@
 # Introducción
 <p><a href=../README.md>Atrás</a</p>
 
-<p>Linux es uno de los sistemas operativos más populares; su desarrollo se inició en 1991 por Linus Torvalds. El sistema operativo se inspiró en Unix, otro sistema operativo desarrollado en la década de 1970 por AT&T LAboratories.</p>
+<p>Linux es uno de los sistemas operativos más populares; su desarrollo se inició en 1991 por Linus Torvalds. El sistema operativo se inspiró en Unix, otro sistema operativo desarrollado en la década de 1970 por AT&T Laboratories. Unix estaba orientado a pequeñas computadoras; en este momento, las computadoras "pequeñas" se consideraban máquinas que no necesitaban una sala completa con aire acondicionado y costaban menos de un millón de dólares. Más tarde, fueron consideradas como máquinas que podían ser transportadas por dos personas. En ese momento, Unix no estaba disponible en compuitadoras pequeñas como las computadoras de oficina basadas en la plataforma x86. Por lo tanto, Linus, que era un estudiante en ese momento, comenzó a implementar un sistema operativo tipo Unix que se suponía que debía ejecutarse en esta plataforma.</p>
