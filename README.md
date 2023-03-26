@@ -260,7 +260,75 @@ Tema 4. El sistema operativo Linux
       <ul>
         <li>Introducción</li>
           <ul>
-            <li></li>
+            <li>Redes de capa de enlace</li>
+            <li>Redes IPv4</li>
+            <li>Redes IPv6</li>
+            <li>DNS</li>
+            <li>Sockets</li>
+          </ul>
+        <li>Ejercicios guiados</li>
+        <li>Ejercicios exploratorios</li>
+        <li>Resumen</li>
+      </ul>
+  </ol>
+
+Tema 5. Seguridad y sistema de permisos de archivos
+  <ol>
+    <li>Seguridad básica e identificación de tipos de usuarios</li>
+      <ul>
+        <li>Introducción</li>
+          <ul>
+            <li>Cuentas</li>
+            <li>Obtenga información sobre sus usuarios</li>
+            <li>Cambio de usuarios y aumento de privilegios</li>
+            <li>Archivos de control de acceso</li>
+          </ul>
+        <li>Ejercicios guiados</li>
+        <li>Ejercicios exploratorios</li>
+        <li>Resumen</li>
+      </ul>
+    <li>Creating Users and Groups</li>
+      <ul>
+        <li>Introducción</li>
+          <ul>
+            <li>El archivo "/etc/passwd"</li>
+            <li>El archivo "/etc/group"</li>
+            <li>El archivo "/etc/shadow"</li>
+            <li>El archivo "/etc/gshadow"</li>
+            <li>Agregar y eliminar cuentas de usuario</li>
+            <li>El directorio "skel"</li>
+            <li>Agergar y eliminar grupos</li>
+            <li>El comando "passwd"</li>
+          </ul>
+        <li>Ejercicios guiados</li>
+        <li>Ejercicios exploratorios</li>
+        <li>Resumen</li>
+      </ul>
+    <li>Gestión de los permisos y la propiedad de los archivos</li>
+      <ul>
+        <li>Introducción</li>
+          <ul>
+            <li>Consultar información sobre archivos y directorios</li>
+            <li>¿Qué pasa con los directorios?</li>
+            <li>Ver archivos ocultos</li>
+            <li>Comprendiendo los tipos de archivos</li>
+            <li>Comprendiendo los permisos</li>
+            <li>Modificando permisos de archivos</li>
+            <li>Modo simbólico</li>
+            <li>Numeric Mode</li>
+            <li>Modificando la propiedad del archivo</li>
+            <li>Consultando grupos</li>
+            <li>Permisos especiales</li>
+          </ul>
+        <li>Ejercicios guiados</li>
+        <li>Ejercicios exploratorios</li>
+        <li>Resumen</li>
+    <li>Directorios y archivos especiales</li>
+      <ul>
+        <li>Introducción</li>
+          <ul>
+            <li>Archivos temporales</li>
+            <li>Comprendiendo los enlaces</li>
           </ul>
         <li>Ejercicios guiados</li>
         <li>Ejercicios exploratorios</li>
