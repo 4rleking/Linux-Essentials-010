@@ -62,7 +62,7 @@ Tema 1. La comunidad Linux y una carrera en el mundo del código abierto<p>
       </ul>
   </ol>
   
-Tema 2. Encontrando el camino en un sistema Linux<p>
+<b>Tema 2. Encontrando el camino en un sistema Linux</b><p>
   <ol>
     <li>Aspectos básicos de la línea de comandos</li>
       <ul>
