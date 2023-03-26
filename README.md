@@ -14,6 +14,8 @@ Tema 1. La comunidad Linux y una carrera en el mundo del código abierto<p>
                 <li>Sistemas Embebidos</li>
                 <li>Linux y el Cloud Computing</li>
               </ul>
+           <li>Ejercicios guiados</li>
+           <li>Ejercicios exploratorios</li>
+           <li>Resumen</li>
       </ul>
- 
   </ol>
