@@ -15,6 +15,7 @@ Tema 1. La comunidad Linux y una carrera en el mundo del código abierto<p>
             <li>Ejercicios guiados</li>
             <li>Ejercicios exploratorios</li>
             <li>Resumen</li>
+      </ul>
     <li>Los sistemas operativos populares y la evolución de Linux</li>
     <li></li>
     <li></li>    
