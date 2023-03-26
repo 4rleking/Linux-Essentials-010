@@ -323,6 +323,7 @@ Tema 5. Seguridad y sistema de permisos de archivos
         <li>Ejercicios guiados</li>
         <li>Ejercicios exploratorios</li>
         <li>Resumen</li>
+      </ul>
     <li>Directorios y archivos especiales</li>
       <ul>
         <li>Introducción</li>
