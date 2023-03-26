@@ -62,4 +62,76 @@ Tema 1. La comunidad Linux y una carrera en el mundo del código abierto<p>
       </ul>
   </ol>
   
-  Tema 2. Encontrando el camino en un sistema Linux<p>
+Tema 2. Encontrando el camino en un sistema Linux<p>
+  <ol>
+    <li>Aspectos básicos de la línea de comandos</li>
+      <ul>
+        <li>Introducción</li>
+          <ul>
+            <li>Estructura de la línea de comandos</li>
+            <li>Tipos de comportamiento de los comandos</li>
+            <li>Comillas (Quoting)</li>
+          </ul>
+        <li>Ejercicios guiados</li>
+        <li>Ejercicios exploratorios</li>
+        <li>Resumen</li>
+        <li>Introducción 2</li>
+          <ul>
+            <li>Variables</li>
+            <li>Manipulando Variables</li>
+          </ul>
+        <li>Ejercicios guiados</li>
+        <li>Ejercicios exploratorios</li>
+        <li>Resumen</li>
+      </ul>
+    <li>Uso de la línea de comandos para obtener ayuda</li>
+      <ul>
+        <li>Introducción</li>
+          <ul>
+            <li>Obteniendo ayuda por línea de comandos</li>
+            <li>Localizando archivos</li>
+          </ul>
+        <li>Ejercicios guiados</li>
+        <li>Ejercicios exploratorios</li>
+        <li>Resumen</li>
+      </ul>
+    <li>Uso de Directorios y listado de archivos</li>
+      <ul>
+        <li>Introducción</li>
+          <ul>
+            <li>Archivos y Directorios</li>
+            <li>Nombres de archivos y directorios</li>
+            <li>Navegando en el sistema de archivos</li>
+            <li>Rutas Absolutas y Relativas</li>
+          </ul>
+        <li>Ejercicios guiados</li>
+        <li>Ejercicios exploratorios</li>
+        <li>Resumen</li>
+        <li>Introducción 2</li>
+          <ul>
+            <li>Directorios Principales</li>
+            <li>La ruta relativa especial para home</li>
+            <li>Rutas relativas a los archivos de inicio (relative-to-home)</li>
+            <li>Archivos y directorios ocultos </li>
+            <li>La opción de listado largo (long list)</li>
+            <li>opciones adicionales del comando ls</li>
+            <li>Recursión en Bash</li>
+          </ul>
+        <li>Ejercicios guiados</li>
+        <li>Ejercicios exploratorios</li>
+        <li>Resumen</li>
+      </ul>
+    <li>Destrezas TIC y el trabajo con Linux</li>
+      <ul>
+        <li>Introducción</li>
+          <ul>
+            <li>Interfaces de usuario en Linux</li>
+            <li>Usos industriales de Linux</li>
+            <li>Problemas de privacidad en el uso de Internet</li>
+            <li>Encriptación</li>
+          </ul>
+        <li>Ejercicios guiados</li>
+        <li>Ejercicios exploratorios</li>
+        <li>Resumen</li>
+      </ul>
+  </ol>
