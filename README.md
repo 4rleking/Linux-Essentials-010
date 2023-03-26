@@ -234,39 +234,32 @@ Tema 4. El sistema operativo Linux
         <li>Ejercicios guiados</li>
         <li>Ejercicios exploratorios</li>
         <li>Resumen</li>
+    <li>Donde los datos se almacenan</li>
+      <ul>
+        <li>Introducción</li>
+          <ul>
+            <li>Programas y su configuración</li>
+            <li>El kernel de Linux</li>
+            <li>Dispositivos de hardware</li>
+            <li>Memorias y tipos de memorias</li>
+          </ul>
+        <li>Ejercicios guiados</li>
+        <li>Ejercicios exploratorios</li>
+        <li>Resumen</li>
         <li>Introducción 2</li>
           <ul>
-            <li>Búsquedas en archivos con "grep"</li>
-            <li>Expresiones regulares</li>
+            <li>Procesos</li>
+            <li>Registro del sistema y mensajería del sistema</li>
           </ul>
         <li>Ejercicios guiados</li>
         <li>Ejercicios exploratorios</li>
         <li>Resumen</li>
       </ul>
-    <li>Crear un script a partir de una serie de comandos</li>
+    <li>Tu ordenador en la red</li>
       <ul>
         <li>Introducción</li>
           <ul>
-            <li>Imprimiendo salidas (Printing Output)</li>
-            <li>Cómo ejecutar un script</li>
-            <li>Comandos y PATH</li>
-            <li>Ejecutar permisos</li>
-            <li>Definición del intérprete</li>
-            <li>Variables</li>
-            <li>Uso de comillas con variables</li>
-            <li>Argumentos</li>
-            <li>Devolver el número de argumentos</li>
-            <li>Lógica condicional</li>
-          </ul>
-        <li>Ejercicios guiados</li>
-        <li>Ejercicios exploratorios</li>
-        <li>Resumen</li>
-        <li>Introducción 2</li>
-          <ul>
-            <li>Códigos de salida</li>
-            <li>Manejando muchos argumentos</li>
-            <li>Bucles (for loop)</li>
-            <li>Uso de expresiones regulares para realizar la comprobación de errores</li>
+            <li></li>
           </ul>
         <li>Ejercicios guiados</li>
         <li>Ejercicios exploratorios</li>
