@@ -210,20 +210,26 @@ Tema 4. El sistema operativo Linux
       <ul>
         <li>Introducción</li>
           <ul>
-            <li></li>
-            <li></li>
-            <li></li>
+            <li>¿Qué es el sistema operativo?</li>
+            <li>Eligiendo una distribución de Linux</li>
+            <li>Sistema operativo no Linux</li>
           </ul>
         <li>Ejercicios guiados</li>
         <li>Ejercicios exploratorios</li>
         <li>Resumen</li>
       </ul>
-    <li>Buscar y extraer datos de los ficheros</li>
+    <li>Conocer el hardwre del ordenador</li>
       <ul>
         <li>Introducción</li>
           <ul>
-            <li>Redirección de E/S</li>
-            <li>Tuberías (Pipes)</li>
+            <li>Fuentes de alimentación</li>
+            <li>Tarjeta madre</li>
+            <li>Memoria</li>
+            <li>Procesadores</li>
+            <li>Almacenamiento</li>
+            <li>Particiones</li>
+            <li>Periféricos</li>
+            <li>Controladores y archivos de dispositivo</li>
           </ul>
         <li>Ejercicios guiados</li>
         <li>Ejercicios exploratorios</li>
