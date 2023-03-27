@@ -1,0 +1,1 @@
+<p>Una distribución de Linux es un paquete que consiste</p>
