@@ -2,7 +2,7 @@
 <p><a href=../README.md>Atrás</a</p>
 
  <ol>
-  <li>¿En qué se diferencia Debian GNU/Linux de Ubuntu? Nombre dos aspectos</li>
+  <li>¿En qué se diferencia Debian GNU/Linux de Ubuntu? Nombre dos aspectos</li><br>
   
   <li>¿Cuáles son los entornos/plataformas más comunes para los que se utiliza Linux? Nombre tres entornos/plataformas diferentes y nombre una distribución que pueda utilizarse para cada uno.</li>
   
