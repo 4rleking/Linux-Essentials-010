@@ -16,5 +16,5 @@
   <p>Otros dispositivos en los que se ejecuta Android son televisores inteligentes, tabletas, Android Auto y relojes inteligentes.</p>
   
   <li><b>Explique tres ventajas importantes de la computación en la nube.</b></li>
-  <p>Las principales ventajas de la computación en la nube son la flexibilidad, la fácil recuperación y el bajo costo de uso. Los servicios basados en la nube son fáciles de implementar y escalar, dependiendo de los requisitos del negocio. Tiene una gran ventaja en las soluciones de respaldo y recuperación, ya que permite a las empresas recuperarse de los incidentes más rápido y con menos repercusiones. Además, reduce los costos de operación, ya que permite pagar solo por los recursos que utiliza una empresa en un modela de suscripción.</p>
+  <p>Las principales ventajas de la computación en la nube son la flexibilidad, la fácil recuperación y el bajo costo de uso. Los servicios basados en la nube son fáciles de implementar y escalar, dependiendo de los requisitos del negocio. Tiene una gran ventaja en las soluciones de respaldo y recuperación, ya que permite a las empresas recuperarse de los incidentes más rápido y con menos repercusiones. Además, reduce los costos de operación, ya que permite pagar solo por los recursos que utiliza una empresa en un modelo de suscripción.</p>
  </ol>
