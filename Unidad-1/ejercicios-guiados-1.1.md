@@ -10,11 +10,11 @@
   <p>Algunos de los entornos/plataformas más comunes serían teléfonos inteligentes, computadoras de escritorios y servidores. En teléfonos inteligentes, puede ser utilizado por distribuciones como Android. En escritorios y servidores, puede utilizarse por cualquier distribución, que sea adecuada a la funcionalidad de ese equipo, desde Debian, Ubuntu a CentOS y Red Hat Enterprise Linux.</p>
   
   <li><b>Se planea instalar una distribución de Linux en un nuevo entorno. Nombre cuatro aspectos que deban ser considerados al elegir una distribución.</b></li>
-  <p></p>
+  <p>Al elegir una distribución, algunos de los aspectos principales que se deben considerar son el costo, el rendimiento, la escalabilidad, la estabilidad y la demanda de hardware del sistema.</p>
   
   <li><b>Nombre tres dispositivos en los que se pueda ejecutar el sistema operativo Android, que no sean teléfonos inteligentes.</b></li>
-  <p></p>
+  <p>Otros dispositivos en los que se ejecuta Android son televisores inteligentes, tabletas, Android Auto y relojes inteligentes.</p>
   
   <li><b>Explique tres ventajas importantes de la computación en la nube.</b></li>
-  <p></p>
+  <p>Las principales ventajas de la computación en la nube son la flexibilidad, la fácil recuperación y el bajo costo de uso. Los servicios basados en la nube son fáciles de implementar y escalar, dependiendo de los requisitos del negocio. Tiene una gran ventaja en las soluciones de respaldo y recuperación, ya que permite a las empresas recuperarse de los incidentes más rápido y con menos repercusiones. Además, reduce los costos de operación, ya que permite pagar solo por los recursos que utiliza una empresa en un modela de suscripción.</p>
  </ol>
