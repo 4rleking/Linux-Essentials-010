@@ -7,7 +7,7 @@
   <p>Otra diferencia pudiera estar relacionada con la estabilidad de cada distribución. Debian se considera más estable comparada con Ubuntu. Debian recibe pocas actualizaciones que son aprobadas minuciosamente por lo que el sistema, de forma general, es más estable. Por otro lado, Ubuntu permite al usuario usar las últimas versiones de software y nuevas tecnologías.</p>
   
   <li><b>¿Cuáles son los entornos/plataformas más comunes para los que se utiliza Linux? Nombre tres entornos/plataformas diferentes y nombre una distribución que pueda utilizarse para cada uno.</b></li>
-  <p></p>
+  <p>Algunos de los entornos/plataformas más comunes serían teléfonos inteligentes, computadoras de escritorios y servidores. En teléfonos inteligentes, puede ser utilizado por distribuciones como Android. En escritorios y servidores, puede utilizarse por cualquier distribución, que sea adecuada a la funcionalidad de ese equipo, desde Debian, Ubuntu a CentOS y Red Hat Enterprise Linux.</p>
   
   <li><b>Se planea instalar una distribución de Linux en un nuevo entorno. Nombre cuatro aspectos que deban ser considerados al elegir una distribución.</b></li>
   <p></p>
