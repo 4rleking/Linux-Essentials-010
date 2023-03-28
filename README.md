@@ -18,7 +18,7 @@ Tema 1. La comunidad Linux y una carrera en el mundo del código abierto<p>
       </ul>
     <li>Principales aplicaciones de código abierto</li>
       <ul>
-        <li>Introducción</li>
+        <li><a href=Unidad-1/introduccion-1.2.md>Introducción</a></li>
           <ul>
             <li>Paquetes de software</li>
             <li>Instalación de paquetes</li>
