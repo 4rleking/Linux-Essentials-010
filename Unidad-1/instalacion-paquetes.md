@@ -14,4 +14,15 @@
   $apt-cache search figlet
   figlet - Make large character ASCII banners out of ordinary text
   ```
+  
   <p>La búsqueda identificó un paquete llamado "figlet" que corresponde al comando que falta. La instalación y eliminación de un paquete requiere permisos especiales otorgados solo al administrador del sistema: el usuario llamado "root". En los sistemas de escritorio, los usuarios comunes pueden instalar o eliminar paquetes anteponiendo el comando "sudo" a los comandos de instalación y/o eliminación. Esto requerirá que escriba su contraseña para continuar. Para los paquetes DEB, la instalación se realiza con el comando "apt-get install package_name" o "apt install package_name":</p>
+
+  ```
+  $sudo apt-get install figlet
+  Reading package lists... Done
+  Building dependency tree
+  Reading state information... Done
+  The following NEW packages will be installed:
+    figlet
+  0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+  ```
