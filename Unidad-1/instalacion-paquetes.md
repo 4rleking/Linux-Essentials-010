@@ -63,4 +63,4 @@ $sudo yum install cowsay
  Installed size: 76 k
  Is this ok [y/N]: y
 ```
-  <p>Una vez más, el paquete deseado y todas sus posibles dependencias serán descargados e intalados:</p>
+  <p>Una vez más, el paquete deseado y todas sus posibles dependencias serán descargados e instalados:</p>
