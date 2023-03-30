@@ -1,4 +1,6 @@
-<h3>Eliminación de paquetes</h3>
+# Eliminación de paquetes
+<p><a href=../README.md>Atrás</a</p>
+  
   <p>Los mismos comandos utilizados para instalar paquetes se utilizan para eliminarlos. Todos los comandos aceptan la palabra clave "remove" para desinstalar un paquete instalado: "apt-get remove package_name" o "apt remove package_name" para paquetes DEB y "yum remove package_name" o "dnf remove package_name" para paquetes RPM. El comando "sudo" también es necesario para realizar la eliminación. Por ejemplo, para eliminar el paquete "figlet" instalado previamente en una distribución basada en DEB:</p>
   
 ```
