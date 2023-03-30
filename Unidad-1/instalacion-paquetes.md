@@ -67,7 +67,7 @@ $sudo yum install cowsay
 
 ```
 Downloading Packages:
-cowsay-3.04-10.fc28,noarch.rpm                                                                      490 kB/s | 46 kB    00:00
+cowsay-3.04-10.fc28.noarch.rpm                                                                      490 kB/s | 46 kB    00:00
 ==============================================================================================================================
 Total                                                                                                53 kB/s | 46 kB    00:00
 
@@ -86,3 +86,10 @@ Total                                                                           
   
   Complete!
 ```
+  <p>El comando "cowsay hace exactamente lo que su nombre indica:</p>
+  
+```
+$cowsay "Brought to you by yum"
+```
+
+  <p>Aunque puedan parecer inútiles, los comandos "figlet" y "cowsay" proporcionan una forma de llamar la atención de otros usuarios sobre la información relevante.</p>
