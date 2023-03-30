@@ -64,3 +64,25 @@ $sudo yum install cowsay
  Is this ok [y/N]: y
 ```
   <p>Una vez más, el paquete deseado y todas sus posibles dependencias serán descargados e instalados:</p>
+
+```
+Downloading Packages:
+cowsay-3.04-10.fc28,noarch.rpm                                                                      490 kB/s | 46 kB    00:00
+==============================================================================================================================
+Total                                                                                                53 kB/s | 46 kB    00:00
+
+  Running transaction check
+  Transaction check succeeded.
+  Running transaction test
+  Transaction test succeeded.
+  Running transaction
+  Preparing         :                                                                                                   1/1
+  Installing        : cowsay-3.04-10.fc28.noarch                                                                        1/1
+  Running scriptlet : cowsay-3.04-10.fc28.noarch                                                                        1/1
+  Verifying         : cowsay-3.04-10.fc28.noarch                                                                        1/1  
+  
+  Installed:
+  cowsay-3.04-10.fc28.noarch
+  
+  Complete!
+```
