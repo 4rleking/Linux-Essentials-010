@@ -93,3 +93,5 @@ $cowsay "Brought to you by yum"
 ```
 
   <p>Aunque puedan parecer inútiles, los comandos "figlet" y "cowsay" proporcionan una forma de llamar la atención de otros usuarios sobre la información relevante.</p>
+
+  <h2>Eliminación de paquetes</h2>
