@@ -32,5 +32,5 @@
     ```
   Need to get 184 kB of archives.
   After this operation, 741 kB of aditional disk space will be used.
-  Get:1 http://archive.raspbian.org/raspbian stretch/main armhf figlet armhf 2.2.5-2 [184 kB]
+  Get:1 http:// archive. raspbian.org /raspbian stretch/main armhf figlet armhf 2.2.5-2 [184 kB]
   ```
