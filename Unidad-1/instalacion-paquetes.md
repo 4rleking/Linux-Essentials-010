@@ -42,3 +42,25 @@
   update-alternatives: using /usr/bin/figlet-figlet to provide /usr/bin/figlet (figlet) in auto mode
   Processing triggers for man-db (2.7.6.1-2) ...
   ```
+  <p>Una vez finalizada la descarga, todos los archivos son copiados a las ubicaciones correspondiente, se realizará cualquier configuración adicional y el comando estará disponible:</p>
+  
+  <p>En distribuciones basadas en paquetes RPM, las búsquedas se realizan usando "yum search package_name" o "dnf search package_name". Supongamos que desea mostrar algún texto de una forma más irreverente, seguido de una vaca caricaturesca, pero no está seguro del paquete que puede realizar esa tarea:</p>
+    
+```
+$yum search speaking cow
+last metadata expiration check: 1:30:49 ago on Tue 23 Apr 2019 11:02:33 PM -03.
+================ Name & Summary Matched: speaking, cow ========================
+    cowsay.noarch : Configurable speaking/thinking cow
+```
+  <p>Después de encontrar un paquete adecuado en el repositorio, puede instalarse con "yum install package_name" o "dnf install package_name":</p>
+  
+```
+$sudo yum install cowsay
+ Last metadata expiration check: 2:41:02 on Tue 23 Apr 2019 11:02:33 PM -03.
+ Dependencies resolved.
+  
+ Total download size: 46 k
+ Installed size: 76 k
+ Is this ok [y/N]: y
+```
+  <p>Una vez más, el paquete deseado y todas sus posibles dependencias serán descargados e intalados:</p>
