@@ -1,5 +1,5 @@
 # Aplicaciones de Office
-<p><a href=../README.md>Atrás</a</p>
+<a href=../README.md>Atrás</a>
 
 Las aplicaciones de office se utilizan para editar archivos como textos, presentaciones, hojas de cálculo y otros formatos que se utilizan habitualmente habitualmente en un entorno de oficina, y que suelen organizarse en colecciones denominadas "office suites".
   
