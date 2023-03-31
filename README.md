@@ -23,7 +23,7 @@ Tema 1. La comunidad Linux y una carrera en el mundo del código abierto<p>
             <li><a href=Unidad-1/paquetes-software.md>Paquetes de software</a></li>
             <li><a href=Unidad-1/instalacion-paquetes.md>Instalación de paquetes</a></li>
             <li><a href=Unidad-1/eliminacion-paquetes.md>Eliminación de paquetes</a></li>
-            <li><a href=Unidad-1/aplicacion-office.md>Aplicación de Office</a></li>
+            <li><a href=Unidad-1/aplicaciones-office.md>Aplicación de Office</a></li>
             <li>Navegadores Web</li>
             <li>Multimedia</li>
             <li>Programas para servidores</li>
