@@ -9,5 +9,11 @@ Los dos proyectos tienen las mismas aracterísticas básicas y son compatibles c
   
 <ol>
   <li>Writer - Editor de texto</li>
-   Calc - Hojas de cálculo
- 
+  <li>Calc - Hojas de cálculo</li>
+  <li>Impress - Presentaciones</li>
+  <li>Draw - Dibujo Vectorial</li>
+  <li>Math - Fórmulas matemáticas</li>
+  <li>Base - Base de datos</li>
+</ol>
+  
+Tanto LibreOffice como Apache OpenOffice son software de código abierto, pero LibreOffice está licenciado bajo LGPLv3 y Apache OpenOffice está licenciado bajo Apache License 2.0. La distinción de licencia implica que LibreOffice puede incorporar mejoras hechas por Apache OpenOffice, pero Apache OpenOffice no puede incorporar mejoras hechas por LibreOffice. Por esa razón y por una comunidad más activa de desarrolladores, las distribuciones más populares que adoptan LibreOffice como su suite ofimática predeterminada.
