@@ -1,5 +1,5 @@
 # Distribuciones
-<a href=../README.md>Atrás</a
+<a href=../README.md>Atrás</a>
 
 Una distribución de Linux es un paquete que consiste en un kernel de Linux y una selección de aplicaciones mantenidas por una empresa o comunidad de usuarios. El objetivo de una distribución es optimizar el núcleo y las aplicaciones que se ejecutan en el sistema operativo para un determinado caso de uso o grupo de usuarios. Las distribuciones a menudo incluyen herramientas específicas de distribución para la instalación de software y la administración del sistema. Es por esto que algunas distribuciones se usan principalmente para ejecutarse en servidores utilizando los recursos disponibles de la manera más eficiente posible.
 
