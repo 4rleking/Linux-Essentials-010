@@ -60,29 +60,4 @@ $sudo yum remove cowsay
   
   Complete!
 ```
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  <p>Los archivos de configuración de los paquetes eliminados se mantienen en el sistema, por lo que pueden volver a utilizarse si el paquete se vuelve a instalar en el futuro.</p>
