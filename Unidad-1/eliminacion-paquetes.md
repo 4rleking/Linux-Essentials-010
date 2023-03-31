@@ -44,4 +44,45 @@ $sudo yum remove cowsay
   
   <p>Asimismo, se solicita una confirmación y se borra el paquete del sistema:</p>
   
+```
+  Running transaction check
+  Transaction check succeeded.
+  Running transaction test
+  Transaction test succeeded.
+  Running transaction
+    Preparing           :                                                                                     1/1
+    Erasing             : cowsay-3.04-10.fc28.noarch                                                          1/1
+    Running scriptlet   : cowsay-3.04-10.fc28.noarch                                                          1/1
+    Verifying           : cowsay-3.04-10.fc28.noarch                                                          1/1
+  
+  Removed:
+     cowsay-3.04-10.fc28
+  
+  Complete!
+```
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
