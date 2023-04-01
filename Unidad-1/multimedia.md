@@ -7,4 +7,6 @@ En comparación con las aplicaciones web disponibles, las aplicaciones de escrit
 Un renderizador 3D para crear animaciones, también se puede utilizar para exportar objetos 3D para ser impresos por una impresora 3D.
 
 <h3>GIMP</h3>
+Un editor de imágenes completo, que puede compararse con "Adobe Photoshop", pero que tiene sus propios conceptos y herramientas para trabajar con imágenes. GIMP puede utilizarse para crear, editar y guardar la mayoría de los archivos de mapas de bits, como JPEG, PNG, GIF, TIFF y muchos otros.
+
 <h3>Inkscape</h3>
