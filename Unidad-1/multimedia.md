@@ -7,4 +7,4 @@ En comparación con las aplicaciones web disponibles, las aplicaciones de escrit
 Un renderizador 3D para crear animaciones, también se puede utilizar para exportar objetos 3D para ser impresos por una impresora 3D.
 
 <h3>GIMP</h3>
-<h2>Inkscape</h3>
+<h3>Inkscape</h3>
