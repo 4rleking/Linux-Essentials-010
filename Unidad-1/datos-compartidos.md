@@ -2,3 +2,5 @@
 <a href=../README.md>Atrás</a>
 
 En las redes locales, como las que se encuentran en las oficinas y los hogares, es deseable que los ordenadores no sólo puedan acceder a Internet, sino que también puedan comunicarse entre sí. En ocasiones un ordenador puede actuar como un servidor y un cliente. Por ejemplo, cuando se desea acceder a los archivos de otro ordenador de la red sin la molestia de tener que copiarlo en una unidad USB o similar.
+
+Entre máquinas Linux, NFS (Network File System) se utiliza a menudo para este tipo de funciones. El protocolo NFS es la forma estándar de compartir sistemas de archivos en redes equipadas únicamente con máquinas Unix/Linux con las que un ordenador puede compartir uno o varios de sus directorios con ordenadores específicos de la red. De este modo, NFS puede leer y escribir archivos en estos directorios. Incluso se puede usar NFS para compartir el árbol de directorios de todo un sistema operativo con clientes que lo usarán para arrancar (Bootear) desde el servidor. Estas computadoras, llamadas "thin clients" se utilizan principalmente en redes grandes para evitar el mantenimiento de cada sistema operativo de cada máquina.
