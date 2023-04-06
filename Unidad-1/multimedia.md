@@ -17,3 +17,5 @@ Un editor de audio que permite filtrar, aplicar efectos y convertir a diferentes
 
 <h3>ImageMagick</h3>
 ImageMagick es una herramienta de línea de comandos para convertir y editar la mayoría de los archivos de tipo imagen. También puede ser usado para crear documentos PDF desde un archivo de imagen y viceversa.
+
+También hay muchas aplicaciones dedicadas a la reproducción multimedia. La aplicación más popular para la reproducción de video es "VLC", pero algunos usuarios prefieren otras alternativas, como "smplayer". La reproducción de música local también tiene muchas opciones, como "Audacious", "Banshee" y "Amarock", que también pueden administrar una colección de archivos de sonidos locales.
