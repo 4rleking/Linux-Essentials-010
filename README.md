@@ -26,7 +26,6 @@ Tema 1. La comunidad Linux y una carrera en el mundo del código abierto<p>
             <li><a href=Unidad-1/aplicaciones-office.md>Aplicación de Office</a></li>
             <li><a href=Unidad-1/navegadores-web.md>Navegadores Web</a></li>
             <li><a href=Unidad-1/multimedia.md>Multimedia</a></li>
-            <li>Programas para servidores</li>
             <li><a href=Unidad-1/programas-servidores.md>Programas para servidores</a></li>
             <li>Datos compartidos (Data Sharing)</li>
             <li>Administración de la red</li>
