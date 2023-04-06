@@ -11,3 +11,9 @@ Un editor de imágenes completo, que puede compararse con "Adobe Photoshop", per
 
 <h3>Inkscape</h3>
 Un editor de gráficos vectoriales, similar a "Corel Draw" o "Adobe Illustrator". El formato por defecto de Inkscape es SVG, que es un estándar abierto para gráficos vectoriales, los archivos SVG pueden ser abiertos por cualquier navegador web y, debido a su naturaleza de gráfico vectorial, puede ser utilizado en diseños flexibles de páginas web.
+
+<h3>Audacity</h3>
+Un editor de audio que permite filtrar, aplicar efectos y convertir a diferentes formatos de audio, como MP3, WAV, OGG, FLAC, etc.
+
+<h3>ImageMagick</h3>
+ImageMagick es una herramienta de línea de comandos para convertir y editar la mayoría de los archivos de tipo imagen. También puede ser usado para crear documentos PDF desde un archivo de imagen y viceversa.
