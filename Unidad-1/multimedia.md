@@ -10,3 +10,4 @@ Un renderizador 3D para crear animaciones, también se puede utilizar para expor
 Un editor de imágenes completo, que puede compararse con "Adobe Photoshop", pero que tiene sus propios conceptos y herramientas para trabajar con imágenes. GIMP puede utilizarse para crear, editar y guardar la mayoría de los archivos de mapas de bits, como JPEG, PNG, GIF, TIFF y muchos otros.
 
 <h3>Inkscape</h3>
+Un editor de gráficos vectoriales, similar a "Corel Draw" o "Adobe Illustrator". El formato por defecto de Inkscape es SVG, que es un estándar abierto para gráficos vectoriales, los archivos SVG pueden ser abiertos por cualquier navegador web y, debido a su naturaleza de gráfico vectorial, puede ser utilizado en diseños flexibles de páginas web.
