@@ -1,7 +1,7 @@
 # Lenguajes de Programación
 <a href=../README.md>Atrás</a>
 
-Todos los programas de los ordenadores (programas cliente y servidor, aplicaciones de escritorio y el propio sistema operativo) se realizan utilizando uno o más lenguajes de programación, ya sea un unico archivo o un complejo sistema de cientos de archivos que el sistyema operativo trata como una secuencia de instrucciones que deben ser interpretadas y ejecutadas por el procesador y otros dispositivos.
+Todos los programas de los ordenadores (programas cliente y servidor, aplicaciones de escritorio y el propio sistema operativo) se realizan utilizando uno o más lenguajes de programación, ya sea un unico archivo o un complejo sistema de cientos de archivos que el sistema operativo trata como una secuencia de instrucciones que deben ser interpretadas y ejecutadas por el procesador y otros dispositivos.
 
 Existen numerosos lenguajes de programación para propósitos muy diferentes y los sistemas Linux proporcionan muchos de ellos. Como el software de código abierto también incluye las fuentes de los programas, los sistemas Linux ofrecen a los desarrolladores condiciones perfectas para entender, modificar o crear software de acuerdo con sus propias necesidades.
 
@@ -24,7 +24,7 @@ El aspecto principal de Java es que los programas escritos en este lenguaje son 
 Perl es un lenguaje de programación muy utilizado para procesar contenido de texto con un fuerte énfasis en las expresiones regulares, lo que hace de Perl un lenguaje adecuado para el filtrado y análisis de texto.
 
 <h3>Shell</h3>
-El shell, en particular el Bash Shell, no es sólo un lenguaje de programación, sino una interfaz interactiva para ejecutar otros programas. Los programas de Shell, conocidos como *shell scripts* pueden automatizar tareas complejas o repetitivas en el entorno de línea de comandos.
+El shell, en particular el Bash Shell, no es sólo un lenguaje de programación, sino una interfaz interactiva para ejecutar otros programas. Los programas de Shell, conocidos como *"shell scripts"* pueden automatizar tareas complejas o repetitivas en el entorno de línea de comandos.
 
 <h3>Python</h3>
 Python es un lenguaje de programación muy popular entre estudiantes y profesionales que no están directamente relacionados con la informática. Aunque tiene características avanzadas, Python es una buena manera de empezar a aprender programación por su enfoque fácil de usar.
