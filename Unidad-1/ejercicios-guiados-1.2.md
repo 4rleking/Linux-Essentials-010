@@ -15,6 +15,14 @@
     <li>¿Qué aplicación del paquete LibreOffice se puede utilizar para trabajar con hojas de cálculo?</li>
     <li>¿Qué navegador web de código abierto se utiliza como base para el desarrollo de Google Chrome?</li>
     <li>SVG es un estándar abierto para gráficos vectoriales. ¿Cuál es la aplicación más popular para editar archivos SVG en sistemas Linux?</li>
-    <li>Para cada uno de los siguientes formatos de archivo, escriba el nombre de una aplicación capaz de abrir y editar el archivo correspondiente:</li>
+    <li>Para cada uno de los siguientes formatos de archivo, escriba el nombre de una aplicación capaz de abrir y editar el archivo correspondiente:
+        <ul>
+            <li>png</li>
+            <li>doc</li>
+            <li>xls</li>
+            <li>ppt</li>
+            <li>wav</li>
+        </ul>
+    </li>
     <li>¿Qué paquete de software permite compartir archivos entre máquinas Linux y Windows a través de la red local?</li>
 </ol>
