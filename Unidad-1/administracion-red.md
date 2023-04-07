@@ -2,3 +2,5 @@
 <a href=../README.md>Atrás</a>
 
 La comunicación entre computadoras solo es posible si la red funciona correctamente. Normalmente, la configuración de la red se realiza mediante un conjunto de programas que se ejecutan en el router, encargados de configurar y comprobar la disponibilidad de la red. Para esto se utilizan dos servicios de red básicos: *"DHCP" (Dynamic Host Configuration Protocol)* y *"DNS"(Domain Name System)*.
+
+DHCP es responsable de asignar una dirección IP al host cuando se conecta un cable a la red o cuando el dispositivo entra en una red inalámbrica. Al conectarse a Internet, el servidor DHCP del proveedor de servicios de Internet proporcionará una dirección IP al dispositivo solicitante. Un servidor DHCP es muy útil en las redes de área local para proporcionar automáticamente direcciones IP a todos los dispositivos conectados. Si DHCP no está configurado o si no funciona correctamente, sería necesario configurar manualmente la dirección IP de cada dispositivo conectado a la red, lo cual no es práctico en entornos de redes grandes e inclusive pequeñas.
