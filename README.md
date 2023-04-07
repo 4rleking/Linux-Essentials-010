@@ -32,7 +32,7 @@ Tema 1. La comunidad Linux y una carrera en el mundo del código abierto<p>
             <li><a href=Unidad-1/lenguajes-programacion.md>Lenguajes de programación</a></li>
           </ul>
         <li><a href=Unidad-1/ejercicios-guiados-1.2.md>Ejercicios guiados</a></li>
-        <li>Ejercicios exploratorios</li>
+        <li><a href=Unidad-1/ejercicios-exploratorios-1.2.md>Ejercicios exploratorios</a></li>
         <li>Resumen</li>
       </ul>
     <li>Software de código abierto y las licencias</li>
