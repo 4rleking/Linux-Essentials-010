@@ -31,7 +31,7 @@ Tema 1. La comunidad Linux y una carrera en el mundo del código abierto<p>
             <li><a href=Unidad-1/administracion-red.md>Administración de la red</a></li>
             <li><a href=Unidad-1/lenguajes-programacion.md>Lenguajes de programación</a></li>
           </ul>
-        <li>Ejercicios guiados</li>
+        <li><a href=Unidad-1/ejercicios-guiados-1.2.md>Ejercicios guiados</a></li>
         <li>Ejercicios exploratorios</li>
         <li>Resumen</li>
       </ul>
