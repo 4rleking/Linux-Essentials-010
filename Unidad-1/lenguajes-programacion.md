@@ -20,6 +20,14 @@ El lenguaje de programación C está estrechamente relacionado con los sistemas 
 <h3>Java</h3>
 El aspecto principal de Java es que los programas escritos en este lenguaje son portátiles, lo que significa que el mismo programa puede ejecutarse en diferentes sistemas operativos. A pesar de su nombre, Java no está relacionado con JavaScript.
 
-<h3></h3>
+<h3>Perl</h3>
+Perl es un lenguaje de programación muy utilizado para procesar contenido de texto con un fuerte énfasis en las expresiones regulares, lo que hace de Perl un lenguaje adecuado para el filtrado y análisis de texto.
 
-<h3></h3>
+<h3>Shell</h3>
+El shell, en particular el Bash Shell, no es sólo un lenguaje de programación, sino una interfaz interactiva para ejecutar otros programas. Los programas de Shell, conocidos como *shell scripts* pueden automatizar tareas complejas o repetitivas en el entorno de línea de comandos.
+
+<h3>Python</h3>
+Python es un lenguaje de programación muy popular entre estudiantes y profesionales que no están directamente relacionados con la informática. Aunque tiene características avanzadas, Python es una buena manera de empezar a aprender programación por su enfoque fácil de usar.
+
+<h3>PHP</h3>
+PHP es el lenguaje de programación más utilizado en el lado del servidor para generar contenido para la web, la mayoría de las páginas HTML en línea no son archivos estáticos, sino contenido dinámico generado por el servidor desde varias fuentes, como bases de datos. Los programas PHP (a veces sólo llamados páginas PHP o scripts PHP) se utilizan a menudo para generar este tipo de contenido. El término LAMP proviene de la combinación de un sistema operativo Linux, un servidor Apache HTTP, una base de datos MySQL (o MariaDB) y la programación PHP. Los servidores LAMP son una solución muy popular para la ejecución de servidores web.
